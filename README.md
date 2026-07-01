@@ -2,7 +2,7 @@
 
 Implementación y experimentación de algoritmos multiagente en juegos alternados e información imperfecta.
 
-**Integrantes:** Agustina Disiot (221025), Juan Irabedra (212375)
+**Autor:** Juan Irabedra (212375)
 
 ## Algoritmos
 
