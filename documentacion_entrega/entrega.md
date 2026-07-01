@@ -1,7 +1,7 @@
 # Obligatorio 2 - Sistemas Multiagente
 - Juan Irabedra 212375
 
-
+https://github.com/jirabedra/obligatorio-2-multiagente
 ## Resumen del documento
 
 Este documento lo estructuro por juego/ambiente. Para cada juego que se pide: TicTacToe, Nocca Nocca, Khun2, Khun3 y Leduc, presento los experimentos que hice, los resultados que obtuve y otros supuestos o conclusiones que saqué de cada uno.
